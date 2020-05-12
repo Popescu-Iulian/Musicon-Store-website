@@ -1,4 +1,4 @@
-/* General Rulesets */
+/* General */
 * {
 	color: #ffffff;
 }
@@ -62,7 +62,7 @@ nav {
 	color: #ffffff;
 }
 
-/* Home Page Rulesets */
+/* Home Page */
 
 #introduction {
 	text-align: center;
@@ -94,7 +94,7 @@ nav {
 	background-color: #26a69a;
 }
 
-/* Store Page Rulesets */
+/* Store Page */
 
 #showcase {
 	margin-top: 5%;
@@ -161,7 +161,7 @@ del {
 	text-align: left;
 }
 
-/* Contact Page Rulesets */
+/* Contact Page */
 
 #connection {
 	width: 100%;
